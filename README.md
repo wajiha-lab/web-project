@@ -1,2 +1,2 @@
 # web-project
-My starting project us a software enjeener
+My starting project us a software Engineer
